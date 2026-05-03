@@ -1,0 +1,8 @@
+# Blender temporary files
+*.blend1
+*.blend2
+
+# RIFE and Render Outputs
+/interpolated/
+rife_launcher.bat
+*.png
